@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1",
+        "cover": "https://ibb.co.com/zRtCT3Q",
+        "title": "Exploring Quantum Computing Basics",
+        "author": "Alice Johnson",
+        "author_img": "https://randomuser.me/api/portraits/women/1.jpg",
+        "posted_date": "2024-10-25",
+        "reading_time": 8,
+        "description": "An introduction to the fascinating world of quantum computing. Learn the fundamentals, key principles, and potential applications in this groundbreaking field.",
+        "hashtags": ["#quantum", "#computing", "#technology", "#future"],
+        "all_tags": ["quantum", "computing", "technology", "future"]
+    },
+    {
+        "id": "2",
+        "cover": "https://ibb.co.com/pnyKscN",
+        "title": "Mastering the Art of Minimalist Living",
+        "author": "James Carter",
+        "author_img": "https://randomuser.me/api/portraits/men/2.jpg",
+        "posted_date": "2024-09-14",
+        "reading_time": 5,
+        "description": "This article dives into minimalist living—its principles, benefits, and how you can embrace a life of simplicity and purpose without the clutter.",
+        "hashtags": ["#minimalism", "#lifestyle", "#simplicity", "#mindfulness"],
+        "all_tags": ["minimalism", "lifestyle", "simplicity", "mindfulness"]
+    },
+    {
+        "id": "3",
+        "cover": "https://ibb.co.com/GCcpyrC",
+        "title": "AI's Impact on Creative Industries",
+        "author": "Sophia Lee",
+        "author_img": "https://randomuser.me/api/portraits/women/3.jpg",
+        "posted_date": "2024-08-10",
+        "reading_time": 7,
+        "description": "Artificial intelligence is reshaping creative fields from music to art. This article explores how AI is collaborating with human creativity and its implications.",
+        "hashtags": ["#AI", "#creativity", "#technology", "#innovation"],
+        "all_tags": ["ai", "creativity", "technology", "innovation"]
+    },
+    {
+        "id": "4",
+        "cover": "https://ibb.co.com/jrXKz7j",
+        "title": "Climate Change and Global Policy",
+        "author": "David Kim",
+        "author_img": "https://randomuser.me/api/portraits/men/4.jpg",
+        "posted_date": "2024-07-05",
+        "reading_time": 10,
+        "description": "An analysis of climate change policies around the world, examining current challenges, successes, and what more needs to be done to protect our planet.",
+        "hashtags": ["#climatechange", "#policy", "#environment", "#globalwarming"],
+        "all_tags": ["climatechange", "policy", "environment", "globalwarming"]
+    },
+    {
+        "id": "5",
+        "cover": "https://ibb.co.com/Qv6sZPt",
+        "title": "The Future of Space Exploration",
+        "author": "Emily Zhou",
+        "author_img": "https://randomuser.me/api/portraits/women/5.jpg",
+        "posted_date": "2024-06-19",
+        "reading_time": 9,
+        "description": "With advancements in space technology, humanity is reaching new frontiers. Discover the latest in space exploration, from Mars missions to interstellar travel plans.",
+        "hashtags": ["#space", "#exploration", "#technology", "#future"],
+        "all_tags": ["space", "exploration", "technology", "future"]
+    }
+]
